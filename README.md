@@ -1,5 +1,3 @@
-# blackmart_error
-Error_report 
 hread "main", id=1, group=main RUNNABLE
 Exception java.lang.Exception with message 'SEND_DEBUG_LOG'
 Stack trace:
